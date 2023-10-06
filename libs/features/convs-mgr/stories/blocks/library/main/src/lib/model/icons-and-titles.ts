@@ -66,6 +66,7 @@ export const iconsAndTitles: any = {
   18: {
     title: 'PAGE-CONTENT.BLOCK.TITLES.JUMP',
     icon: 'fas fa-forward',
+    svgIcon: 'assets/svgs/blocks/fast-forward.svg'
   },
   19: {
     title: 'PAGE-CONTENT.BLOCK.TITLES.MULTIPLE-INPUT',
@@ -116,9 +117,9 @@ export const iconsAndTitles: any = {
     title: 'PAGE-CONTENT.BLOCK.TITLES.CONDITIONAL',
     icon: 'fas fa-random'
   },
-  34:{
+  34: {
     title: 'PAGE-CONTENT.BLOCK.TITLES.CMI5',
-    icon: 'fas fa-cube' 
+    icon: 'fas fa-cube'
   },
   9999: {
     title: 'PAGE-CONTENT.BLOCK.TITLES.END-BLOCK',
