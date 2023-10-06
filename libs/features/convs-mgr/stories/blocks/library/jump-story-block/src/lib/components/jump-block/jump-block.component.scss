@@ -5,18 +5,25 @@
 
 select {
   margin: 5px 0;
-  border: 1px solid var(--convs-mgr-color-primary-purple);
-  border-radius: 5px;
+  background-color: #F3F3F3;
+  border: none;
+  border-radius: 0.5em;
   resize: none;
   padding: 10px;
   max-width: 24rem;
 }
 
+app-option-input-field {
+  padding-right: 0.6em;
+
+}
+
 #block {
   max-width: 100%;
   margin: 5px 0;
-  border: 1px solid var(--convs-mgr-color-primary-purple);
-  border-radius: 5px;
+  background-color: #F3F3F3;
+  border: none;
+  border-radius: 0.5em;
   resize: none;
   padding: 10px;
 }
