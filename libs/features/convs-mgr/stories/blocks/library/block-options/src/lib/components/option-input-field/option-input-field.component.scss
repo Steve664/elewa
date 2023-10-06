@@ -7,9 +7,9 @@
 
 input {
   width: 93% !important;
-  height: fit-content!important;
+  height: fit-content !important;
   min-width: auto !important;
-  min-height: fit-content!important;
+  min-height: fit-content !important;
   padding: 5px 10px;
   margin: 5px 0;
   border-radius: 3px;
@@ -27,11 +27,13 @@ input {
 .success {
   background-color: green;
   color: white;
+  border-radius: 0.5em;
 }
 
 .failed {
   background-color: firebrick;
   color: white;
+  border-radius: 0.5em;
 }
 
 .length-error {
